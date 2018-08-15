@@ -1,0 +1,25 @@
+{
+  "name": "gof_javascript",
+  "version": "1.0.0",
+  "description": "design patterns in javascript/typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinShil/gof_javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "gof",
+    "patterns",
+    "oop"
+  ],
+  "author": "nikita starostin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinShil/gof_javascript/issues"
+  },
+  "homepage": "https://github.com/ShinShil/gof_javascript#readme"
+}
