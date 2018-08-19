@@ -4,7 +4,16 @@
   "description": "design patterns in javascript/typescript",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "ts-node": "ts-node",
+    "ts-singletone": "ts-node .\\birth-patterns\\singletone\\oop.ts",
+    "ts-adapter": "ts-node .\\structure-patterns\\adapter\\oop.ts",
+    "ts-bridge": "ts-node .\\structure-patterns\\bridge\\oop.ts",
+    "ts-composite": "ts-node .\\structure-patterns\\composite\\oop.ts",
+    "ts-decorator": "ts-node .\\structure-patterns\\decorator\\oop.ts",
+    "ts-facade": "ts-node .\\structure-patterns\\facade\\oop.ts",
+    "ts-lightweight": "ts-node .\\structure-patterns\\lightweight\\oop.ts",
+    "ts-proxy": "ts-node .\\structure-patterns\\proxy\\oop.ts"
   },
   "repository": {
     "type": "git",
@@ -21,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/ShinShil/gof_javascript/issues"
   },
-  "homepage": "https://github.com/ShinShil/gof_javascript#readme"
+  "homepage": "https://github.com/ShinShil/gof_javascript#readme",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
+  }
 }
