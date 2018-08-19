@@ -13,7 +13,17 @@
     "ts-decorator": "ts-node .\\structure-patterns\\decorator\\oop.ts",
     "ts-facade": "ts-node .\\structure-patterns\\facade\\oop.ts",
     "ts-lightweight": "ts-node .\\structure-patterns\\lightweight\\oop.ts",
-    "ts-proxy": "ts-node .\\structure-patterns\\proxy\\oop.ts"
+    "ts-proxy": "ts-node .\\structure-patterns\\proxy\\oop.ts",
+    "ts-chain": "ts-node .\\behaviour-patterns\\chain-of-responsibility\\oop.ts",
+    "ts-command": "ts-node .\\behaviour-patterns\\command\\oop.ts",
+    "ts-iterator": "ts-node .\\behaviour-patterns\\iterator\\oop.ts",
+    "ts-mediator": "ts-node .\\behaviour-patterns\\mediator\\oop.ts",
+    "ts-snapshot": "ts-node .\\behaviour-patterns\\snapshot\\oop.ts",
+    "ts-observer": "ts-node .\\behaviour-patterns\\observer\\oop.ts",
+    "ts-state": "ts-node .\\behaviour-patterns\\state\\oop.ts",
+    "ts-strategy": "ts-node .\\behaviour-patterns\\strategy\\oop.ts",
+    "ts-template-method": "ts-node .\\behaviour-patterns\\template-method\\oop.ts",
+    "ts-visitor": "ts-node .\\behaviour-patterns\\visitor\\oop.ts"
   },
   "repository": {
     "type": "git",
